@@ -12,9 +12,18 @@ To add the Cursive dependency to your Rust project, open the `Cargo.toml` file a
 
 ```toml
 cursive = "0.20"
+```
 
-```To execute the application, cargo run
 
-```To exit the application, press the q key.
+To execute the application, 
+```code 
+cargo run
+```
+
+
+To exit the application,
+```code
+press the q key
+```
 
 
