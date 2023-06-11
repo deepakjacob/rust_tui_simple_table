@@ -1,6 +1,14 @@
 # Table Viewer Application
 
-This is a simple Rust application that displays a table using the Cursive library. The table view shows some sample data with columns for Name, Age, and City.
+This is a simple Rust application that displays a table using the Cursive library. The table view dislplays following on a terminal for a table with columns for Name, Age, and City. It uses ncurses by default, but [other backends are available](https://github.com/gyscos/cursive/wiki/Backends).
+
+
+| Name    | Age | City      |
+| ------- | --- | --------- |
+| Alice   | 25  | New York  |
+| Bob     | 30  | London    |
+| Charlie | 35  | Tokyo     |
+
 
 ## Dependencies
 
